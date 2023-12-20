@@ -1,0 +1,7 @@
+accelerate==0.25.0
+diffusers==0.24.0
+matplotlib==3.8.1
+numpy==1.26.2
+opencv-contrib-python==4.8.1.78
+torch==2.1.2
+transformers==4.36.2
